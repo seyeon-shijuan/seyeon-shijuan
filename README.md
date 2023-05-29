@@ -1,8 +1,8 @@
 ![](https://user-images.githubusercontent.com/66824510/241624753-05da990e-fae2-4ef9-b730-a57a4e22dce3.jpg)
 
-<hr>
 
-<div align="center" style="padding-top:20px; padding-bottom:10px;">
+
+<div align="center" style="padding-top:20px; padding-bottom:10px; background-color:#F7F7F7">
 <div style="margin-bottom:20px;">
     <img src="https://user-images.githubusercontent.com/66824510/241624781-5fb81e10-cc60-481c-afb9-0f506ca0c4f0.png" width="200px">
 </div>
@@ -15,11 +15,21 @@
 </samp>
 </div>
 
-<hr>
+
 <br>
 
 ### Tech Stack
 
 <br>
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/ELK_Stack-gold?style=flat&logo=Elasticsearch&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/FastAPI-089688?style=flat&logo=FastAPI&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=FFFFFF"/>
+<div style="float:left;">
+    <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/ELK_Stack-gold?style=flat&logo=Elasticsearch&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/FastAPI-089688?style=flat&logo=FastAPI&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=FFFFFF"/>
+</div>
 
