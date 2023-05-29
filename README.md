@@ -2,7 +2,7 @@
 
 
 
-<div align="center" style="padding-top:30px; padding-bottom:10px;">
+<div align="center" style="padding-top:30px;">
 <div style="margin-bottom:20px;">
     <img src="https://user-images.githubusercontent.com/66824510/241624781-5fb81e10-cc60-481c-afb9-0f506ca0c4f0.png" width="200px">
 </div>
@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=FFFFFF"/>
 </div>
 
-<br>
 <br>
 
 ### My Interests
