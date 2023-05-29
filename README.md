@@ -20,7 +20,6 @@
 
 ### Tech Stack
 
-<br>
 <div style="float:left;">
     <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/ELK_Stack-gold?style=flat&logo=Elasticsearch&logoColor=FFFFFF"/>
@@ -34,12 +33,11 @@
 </div>
 
 <br>
-
-### My Interests
 <br>
 
-- Data Pipelines
-- Data Modeling
-- Data Products
-- Big Data Management
-- MLops
+### My Interests
+
+||||
+|:-:|:-:|:-:|
+|Data Pipelines|Data Modeling|ETL|
+|Bigdata Management|Data Products|MLops|
