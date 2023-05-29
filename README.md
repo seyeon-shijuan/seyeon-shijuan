@@ -23,7 +23,7 @@
 <div style="float:left;">
     <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/ELK_Stack-gold?style=flat&logo=Elasticsearch&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/FastAPI-089688?style=flat&logo=FastAPI&logoColor=FFFFFF"/>
