@@ -9,8 +9,8 @@
 <samp>
     <p>Hi I am <b>SEYEON</b></p>
     <p>I am a passionate data engineer<br>
-    I am interested in Python, Golang and Kubernetes.<br>
-    cheers!</p>
+    I am interested in Python, Golang and Kubernetes.</p>
+    cheers!<br>
     💗
 </samp>
 </div>
