@@ -2,15 +2,15 @@
 
 
 
-<div align="center" style="padding-top:30px;">
-<div style="margin-bottom:20px;">
+<div align="center">
+<div>
     <img src="https://user-images.githubusercontent.com/66824510/241624781-5fb81e10-cc60-481c-afb9-0f506ca0c4f0.png" width="200px">
 </div>
 <samp>
     <p>Hi I am <b>SEYEON</b></p>
     <p>I am a passionate data engineer<br>
-    I am interested in Python, Golang and Kubernetes.</p>
-    <p>cheers!</p>
+    I am interested in Python, Golang and Kubernetes.<br>
+    cheers!</p>
     💗
 </samp>
 </div>
@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/FastAPI-089688?style=flat&logo=FastAPI&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=FFFFFF"/>
 </div>
 
