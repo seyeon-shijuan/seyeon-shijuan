@@ -37,7 +37,15 @@
 
 ### My Interests
 
-||||
-|:-:|:-:|:-:|
-|Data Pipelines|Data Modeling|ETL|
-|Bigdata Management|Data Products|MLops|
+<table>
+    <tr>
+        <td>Data Pipelines</td>
+        <td>Data Modeling</td>
+        <td>ETL</td>
+    </tr>
+    <tr>
+        <td>Bigdata Management</td>
+        <td>Data Products</td>
+        <td>MLops</td>
+    </tr>
+</table>
