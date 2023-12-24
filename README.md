@@ -8,8 +8,8 @@
 </div>
 <samp>
     <p>Hi I am <b>SEYEON</b></p>
-    <p>I am a passionate data engineer<br>
-    I am interested in Python, Golang and Kubernetes.</p>
+    <p>I am a passionate AI engineer<br>
+    I am interested in Pytorch, LLM and Kubernetes.</p>
     cheers!<br>
     💗
 </samp>
@@ -39,9 +39,9 @@
 
 <table>
     <tr>
+        <td>Deep Learning Modeling</td>
         <td>Data Pipelines</td>
-        <td>Data Modeling</td>
-        <td>ETL</td>
+        <td>Large Language Models</td>
     </tr>
     <tr>
         <td>Bigdata Management</td>
