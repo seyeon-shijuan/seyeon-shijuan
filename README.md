@@ -22,7 +22,7 @@
 
 <div style="float:left;">
     <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/ELK_Stack-gold?style=flat&logo=Elasticsearch&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=FFFFFF"/>
